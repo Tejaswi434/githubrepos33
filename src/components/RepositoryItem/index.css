@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+.stars-1 {
+  height: 30px;
+  width: 30px;
+}

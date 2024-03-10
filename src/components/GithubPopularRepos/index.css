@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.rowing {
+  display: flex;
+  flex-direction: row;
+  margin-right: 60%;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 40%;
+}
+
+h1 {
+  margin-left: 100px;
+}
+
+.rowing {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

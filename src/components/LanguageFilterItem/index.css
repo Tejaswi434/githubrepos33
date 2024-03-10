@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+button {
+  margin-right: 20px;
+  border-color: transparent;
+}
+
+li {
+  list-style-type: none;
+
+  border-radius: 10%;
+}
+li :hover {
+  background-color: skyblue;
+}
